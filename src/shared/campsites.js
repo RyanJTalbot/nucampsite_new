@@ -96,7 +96,9 @@ export const CAMPSITES = [
     name: 'Berlin, Germany',
     image: 'assets/images/berlin.jpg',
     elevation: 2901,
-    description: 'Berlin is the capital and largest city of Germany by both area and population. Its 3,769,495 inhabitants make it the most populous city proper of the European Union.'[
+    description:
+      'Berlin is the capital and largest city of Germany by both area and population. Its 3,769,495 inhabitants make it the most populous city proper of the European Union.',
+    comments: [
       ({
         id: 0,
         rating: 5,
